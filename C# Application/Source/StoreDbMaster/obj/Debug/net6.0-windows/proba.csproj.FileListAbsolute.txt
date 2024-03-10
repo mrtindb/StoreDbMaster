@@ -1,0 +1,116 @@
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\proba.exe
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\proba.deps.json
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\proba.runtimeconfig.json
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\proba.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\proba.pdb
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba_MarkupCompile.cache
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba_MarkupCompile.lref
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.g.resources
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.AssemblyInfoInputs.cache
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.AssemblyInfo.cs
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.dll
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\refint\proba.dll
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.pdb
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.genruntimeconfig.cache
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\ref\proba.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\marti\source\repos\proba\proba\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\marti\source\repos\proba\proba\obj\Debug\net6.0-windows\proba.csproj.CopyComplete
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\proba.exe
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\proba.deps.json
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\proba.runtimeconfig.json
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\proba.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\proba.pdb
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.csproj.AssemblyReference.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\App.g.cs
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba_MarkupCompile.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba_MarkupCompile.lref
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\MainWindow.baml
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.g.resources
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.GeneratedMSBuildEditorConfig.editorconfig
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.AssemblyInfoInputs.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.AssemblyInfo.cs
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.csproj.CoreCompileInputs.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.csproj.CopyComplete
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\refint\proba.dll
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.pdb
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\proba.genruntimeconfig.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\ref\proba.dll

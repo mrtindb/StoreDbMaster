@@ -1,0 +1,5 @@
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\MusicStoreManager.csproj.AssemblyReference.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\App.g.cs
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\MusicStoreManager_MarkupCompile.cache
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\proba\obj\Debug\net6.0-windows\MusicStoreManager_MarkupCompile.lref
