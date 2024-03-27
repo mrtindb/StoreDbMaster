@@ -1,11 +1,11 @@
-create database MusicStore
+create database StoreDB
 GO
 
-use MusicStore
+use StoreDB
 
-ALTER DATABASE MusicStore SET SINGLE_USER WITH ROLLBACK IMMEDIATE    
-alter database MusicStore collate LATIN1_GENERAL_100_CI_AS_SC_UTF8
-ALTER DATABASE MusicStore SET MULTI_USER
+ALTER DATABASE StoreDB SET SINGLE_USER WITH ROLLBACK IMMEDIATE    
+alter database StoreDB collate LATIN1_GENERAL_100_CI_AS_SC_UTF8
+ALTER DATABASE StoreDB SET MULTI_USER
 
 GO
 

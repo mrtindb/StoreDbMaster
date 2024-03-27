@@ -1,4 +1,4 @@
-﻿create procedure AddCategory 
+﻿create procedure AddCategory /* adds a product category */
  @CategoryName nvarchar(100)
 AS
 BEGIN
@@ -7,9 +7,9 @@ VALUES ( @CategoryName)
 END
 GO
 
-DROP PROC AddProduct
-GO
-CREATE PROCEDURE AddProduct
+/*DROP PROC AddProduct 
+GO */
+CREATE PROCEDURE AddProduct  /* adds a new product */
 @Category nvarchar(100), @name nvarchar(200), @Price money, @StoredQuantity int, @WarrantyExp int
 AS
 BEGIN
@@ -23,7 +23,7 @@ GO
 
 
 
-CREATE PROCEDURE AddDiscount
+CREATE PROCEDURE AddDiscount  /* adds a discount */
 @Name nvarchar(200), @percentage float
 AS
 BEGIN
@@ -32,7 +32,7 @@ VALUES (@Name, @percentage)
 END
 GO
 
-CREATE PROCEDURE AddCustomer
+CREATE PROCEDURE AddCustomer  /* adds a customer profile */
 @Name nvarchar(100), 
 @Surname nvarchar(100), 
 @Email varchar(1000), 
@@ -48,7 +48,7 @@ END
 GO
 
 
-CREATE PROCEDURE AddPayment
+CREATE PROCEDURE AddPayment  /* aads a payment details attached to an account */
 @ID int,
 @CardNumber varchar(16),
 @CVC varchar(3),
@@ -67,7 +67,7 @@ SET PaymentInformationID = @ID where @AccountID = CustomerID
 END
 GO
 
-CREATE PROCEDURE DeleteUniversal @ID int, @TableName varchar(20)
+CREATE PROCEDURE DeleteUniversal @ID int, @TableName varchar(20) /*deletes a record based on ID and Table Name */
 AS
 BEGIN
 IF(@TableName = 'Categories') DELETE FROM Categories WHERE CategoryID=@ID
@@ -89,7 +89,7 @@ ELSE IF(@table = 'CustomerAccounts') SELECT CustomerID FROM CustomerAccounts
 END
 GO
 
-CREATE PROCEDURE LoadProducts(@ProductName nvarchar(200), @Quantity int)
+CREATE PROCEDURE LoadProducts(@ProductName nvarchar(200), @Quantity int)  /*loads products in the database */
 AS
 BEGIN
 
