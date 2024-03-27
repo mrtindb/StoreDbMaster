@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StoreDbMaster
-build_property.ProjectDir = E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\StoreDbMaster\
+build_property.ProjectDir = E:\SQL Server Database Project_Music Store_12d_2023\Application\Source\StoreDbMaster\
