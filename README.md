@@ -14,6 +14,7 @@ A multi-user database, consisting of the tables:
 + Products
 + Transactions
 
+SQL scripts for database creation are provided, although one could also use the .bak file, which is a full backup of the database (without any records).
 Database Diagram:
 
 ![Database UML Diagram](/Database/dbuml.png?raw=true "Optional Title")
