@@ -148,7 +148,7 @@ namespace StoreDbMaster
             {
                 string sqlConnString = connectionStringTextBox.Text;
                 //if (sqlConnString.Length == 0) { return; }
-                if (sqlConnString == "") sqlConnString = "Data Source=localhost;Initial Catalog=MusicStore;Integrated Security=True";
+                if (sqlConnString == "") sqlConnString = "Data Source=localhost;Initial Catalog=StoreDB;Integrated Security=True";
                 globalConnection = new SqlConnection(sqlConnString + ";Trust Server Certificate=true");
                 globalConnection.Open();
                 

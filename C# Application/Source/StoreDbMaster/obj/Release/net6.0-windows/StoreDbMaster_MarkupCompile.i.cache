@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\obj\Release\net6.0-windows\
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\StoreDbMaster\obj\Release\net6.0-windows\
 StoreDbMaster
 none
 false
 TRACE;RELEASE;NET;NET6_0;NETCOREAPP
-E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\proba\App.xaml
+E:\SQL Server Database Project_Music Store_12d_2023\C# Application\Source\StoreDbMaster\App.xaml
 11407045341
 
 51636496700
 2221574829013
 MainWindow.xaml;
 
-False
+True
 
